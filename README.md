@@ -1,6 +1,7 @@
 # Hello 🤠
 
-- My name is Noel Barrera. I'm a Software Developer from Fort Wayne, Indiana. 
+- My name is Noel Barrera. I'm a Full Stack Developer from Fort Wayne, Indiana.
+- Currently trying to learn .NET, C# and Python.
 
 
 # My Current Tools
