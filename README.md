@@ -1,6 +1,7 @@
 # Hello 🤠
 
 - My name is Noel Barrera. I'm a Full Stack Developer from Fort Wayne, Indiana.
+- Currently a RPG Developer at Shambaugh & Sons Inc.
 - Currently trying to learn .NET, C# and Python.
 
 
