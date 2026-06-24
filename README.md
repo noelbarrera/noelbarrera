@@ -1,7 +1,7 @@
 # Hello 🤠
 
 - My name is Noel Barrera. I'm a Full Stack Developer from Fort Wayne, Indiana.
-- Currently a RPG Developer at Shambaugh & Sons Inc.
+- Currently an IBM I and PHP Developer at Shambaugh & Sons, L.P.
 
 
 # My Current Tools
